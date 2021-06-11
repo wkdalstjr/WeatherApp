@@ -3,7 +3,14 @@
     "name": "weatherApp",
     "slug": "weatherApp",
     "version": "1.0.0",
+    "privacy": "public",
     "orientation": "portrait",
+    "sdkVersion": "41.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
